@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Zhao"
+  given-names: "Xiaonan"
+  orcid: "https://orcid.org/0009-0002-6522-0277"
+- family-names: "Chenge"
+  given-names: "Li"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Open set cross domain few shot logo recognition"
+version: 1.0.4
+date-released: 2025-02-27
+url: "https://github.com/wacv2025-image-quality-workshop2/cross-domain-logo-recognition"
