@@ -42,6 +42,12 @@ The dataset consists of images from two distinct domains:
 ### Benchmarking
 - **Baseline task**: Train/Indexing on the **Registration domain** and evaluate on the **Product domain**.
 
+## Visualization of cross domain pairs
+
+![image](dataset_illustration0.png)
+![image](dataset_illustration2.png)
+
+
 ## Citation
 If you use this dataset in your research, please cite:
 
