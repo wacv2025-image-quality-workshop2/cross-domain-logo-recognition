@@ -53,7 +53,7 @@ If you use this dataset in your research, please cite:
 
 ```
 @software{Zhao_Open_set_cross_2025,
-author = {Zhao, Xiaonan and Chenge, Li},
+author = {Zhao, Xiaonan and Li, Chenge and Liu, Zongyi and Feng, Yarong and Chen, Qipin},
 month = feb,
 title = {{Open set cross domain few shot logo recognition}},
 url = {https://github.com/wacv2025-image-quality-workshop2/cross-domain-logo-recognition},
