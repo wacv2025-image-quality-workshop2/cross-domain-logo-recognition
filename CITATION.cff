@@ -7,6 +7,16 @@ authors:
 - family-names: "Li"
   given-names: "Chenge"
   orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Liu"
+  given-names: "Zongyi"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Feng"
+  given-names: "Yarong"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Chen"
+  given-names: "Qipin"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+
 title: "Open set cross domain few shot logo recognition"
 version: 1.0.4
 date-released: 2025-02-27
